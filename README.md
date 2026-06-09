@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Mohammed Hammouch 👋
 
-<!--
-**Hammouch27/Hammouch27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support & Helpdesk | Building toward Network Automation
+Currently studying CCNA and Python for network automation.
+Based in Casablanca, Morocco 🇲🇦
 
-Here are some ideas to get you started:
+## What I'm working on
+- Python networking labs — github.com/Hammouch27/py-networking-foundations
+- Studying for CCNA certification
+- Building toward Cisco DevNet Associate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python | Linux | GLPI | Networking | Git
+
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hammouch27&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammouch27&theme=dark)
